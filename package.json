@@ -1,0 +1,15 @@
+{
+  "name": "login_api",
+  "version": "1.0.0",
+  "description": "login api for jio mart",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Prateek",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
